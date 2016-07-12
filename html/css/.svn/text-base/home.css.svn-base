@@ -1,0 +1,10 @@
+    body {
+	background-image: url( /gfx/home_background.gif );
+    }
+    #bannerrow {
+	height: 237px;
+    }
+    #content_left {
+	width: 230px;
+    }
+

@@ -1,0 +1,101 @@
+<!--#set var="TITLE" value="Channel Partners" -->
+<!--#set var="SECTION" value="partners" -->
+<!--#set var="L2" value="partners_channel"-->
+<!--#set var="L3" value=""-->
+
+<!--#set var="NAV_TITLE" value="Partners"-->
+
+<!--#include virtual="/template/html_header.html" -->
+<!--#include virtual="/template/titlerow.html" -->
+<!--#include virtual="/template/menurow.html" -->
+<!--#include virtual="/template/bannerrow.html" -->
+
+
+ <div id="content_right">
+     <!--#include virtual="/template/requestdemo.html" -->
+ </div>
+
+ <div id="content_left">
+     <!--#include virtual="../partners_nav.html" -->
+ </div>
+
+ <div id="content">
+ <div id="content_center">
+
+  <h1>Channel Partners</h1>
+
+  <h2> Enjoy a broader catalog and a more engaging experience with your customers. </h2>
+
+  <p>
+   With our unique and competitive revenue sharing model, you can realize longer-term revenue potential. Through simplified hardware integration, BOSS deepens your product catalog and the revenue potential of each customer engagement. Metered pricing and immediate availability also help your customers get off the ground more quickly than with off-the-shelf alternatives.
+  </p>
+
+  <p> Our Channel Partners are: </p>
+
+  <ul>
+   <li> Resellers of hardware and software for service providers and corporate enterprise </li>
+   <li> Hardware manufacturers </li>
+   <li> Hosted service providers </li>
+   <li> Internet telephony service providers </li>
+   <li> Help desk/support and outsourced call centers </li>
+  </ul>
+
+  <h2> BOSS Platform Benefits <h2>
+
+  <h1> Integration </h1>
+
+  <p>
+   Because BOSS is a completely integrated platform, partners have access to an on-demand, scalable infrastructure for their back office that can be made available to their customers. BOSS alleviates the headaches involved with managing different types of hardware or networks and allows partners to simplify and centrally manage multiple services. BOSS not only contains a complete set of APIs that can be used to provide external access to BOSS data, it also has points of integration for hardware and client devices for service provisioning. BOSS can be accessed through most communications protocols and supports several standard API protocols (HTTP, SOAP, CORBA).
+  </p>
+
+  <h1> Customization </h1>
+
+  <p>
+   Dramatically evolving beyond the current popular technology stacks of LAMP and Ruby, IntraMeta’s Web Template Framework enables partners to expedite the deployment of new Web applications or extensions of BOSS functionality, with no worry over the implementation details of back-end structured storage.
+  </p>
+
+
+  <p>
+   Designed with resale relationships in mind, partners can segment BOSS internally to better manage multiple business relationships. Using their brand and identity system, partners can also completely customize their BOSS interface as a wholesale or OEM product.
+  </p>
+
+  <h1> Complete or Point Solution </h1>
+
+  <p>
+   While more powerful than a set of independent systems, BOSS’ à-la-carte platform is quickly adaptable for a point solution to an immediate problem. Whether utilized individually or as a total solution, BOSS modules benefit from the native integration provided by the platform and can be integrated with existing systems using APIs. BOSS’ technology is flexible to accommodate both small and large businesses, ensuring a smooth migration with existing systems.
+  </p>
+
+  <h1> Revenue Sharing </h1>
+
+  <p>
+   Through our revenue sharing program, partners benefit from a unique, long-term revenue opportunity that can strengthen their overall business. On all projects that use our services and technology, partners earn recurring monthly income.
+  </p>
+
+  <h1> Complete Support Program </h1>
+
+  <p>
+   All partners receive specialized training, support and extensive documentation to ensure their success and maximum efficiency. If necessary, we can also provide end-customer support.
+  </p>
+
+  <h1> More Potential Revenue </h1>
+
+  <p>
+   Partners can increase revenue by wholesaling new BOSS services. The Captive Portal module allows partners to set up new script-driven service activation portals that can interact with the end customer and offer better control over the customer experience through branded self-management tools.
+  </p>
+
+
+  <p>
+   Hardware manufacturers and resellers can counter customer resistance by alleviating equipment management headaches with a turnkey operations support system that works natively with their hardware.
+  </p>
+
+  <p> Interested in our Channel Partner program? Please contact us. </p>
+
+ </div>
+
+</div>
+
+<!--#include virtual="/template/footerrow.html" -->
+
+<!--#include virtual="/template/html_footer.html" -->
+
+

@@ -1,0 +1,89 @@
+
+    #menurow {
+	width: 845px;
+	z-index:999;
+	padding-left: 8px;
+	position: relative;
+    }
+
+    #menurow .menuImg {
+        float: left;
+    }
+
+    #menurow .menu {
+        position: absolute;
+	z-index: 1000;
+	top: 28px;
+	display: none;
+
+	border: 1px solid #8F8F8F;
+	border-top: 1px solid #696969;
+
+	background-color: #F8F8FA;
+
+	background-image: url( /gfx/menu_background.gif );
+	background-repeat: repeat-y;
+	background-position: top-left;
+    }
+
+    #menurow .menu ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	padding-left: 18px;
+	padding-right: 18px;
+    }
+
+    #menurow .menu li a {
+	text-decoration: none;
+	color: #666666;
+	font-size: 7pt;
+	padding-left: 7px;
+	line-height: 17pt;
+	display: block;
+    }
+
+    #menurow .menu li {
+        border-bottom: 1px solid #D5D7D9;
+    }
+
+    #menurow .menu li.bottom {
+	border-bottom: none;
+    }
+
+    #menurow .menu li.active  a {
+	background-image: url( /gfx/menu_arrow.gif );
+	background-repeat: no-repeat;
+	background-position: 0 .8em;
+	color: #3F5C17;
+    }
+
+    #menuProducts {
+	left:9px;
+	width: 150px;
+    }
+
+    #menuResources {
+	left:129px;
+	width: 150px;
+    }
+    #menuNews {
+	left:270px;
+	width: 150px;
+    }
+    #menuSupport {
+	left:365px;
+	width: 150px;
+    }
+    #menuPartners {
+	left:482px;
+	width: 150px;
+    }
+    #menuCompany {
+	left:607px;
+	width: 150px;
+    }
+    #menuClients {
+	right:0px;
+	width: 150px;
+    }

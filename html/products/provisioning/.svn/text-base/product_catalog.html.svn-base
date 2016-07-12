@@ -1,0 +1,90 @@
+<!--#set var="TITLE" value="Product Catalog" -->
+<!--#set var="SECTION" value="products" -->
+<!--#set var="L2" value="products_provisioning"-->
+<!--#set var="L3" value="provisioning_product_catalog"-->
+
+<!--#set var="NAV_TITLE" value="Products"-->
+
+<!--#include virtual="/template/html_header.html" -->
+<!--#include virtual="/template/titlerow.html" -->
+<!--#include virtual="/template/menurow.html" -->
+<!--#include virtual="/template/bannerrow.html" -->
+
+
+ <div id="content_right">
+
+  <div id="screenshot_set">
+
+   <a href="/gfx/screenshots/product_catalog1.png" rel="lightbox">
+    <img src="/gfx/screenshots/product_catalog1_thumb.png" />
+    <span> Service Features </span>
+   </a>
+
+   <a href="/gfx/screenshots/product_catalog2.png" rel="lightbox">
+    <img src="/gfx/screenshots/product_catalog2_thumb.png" />
+    <span> Design Your Own Services </span>
+   </a>
+
+   <a href="/gfx/screenshots/product_catalog3.png" rel="lightbox">
+    <img src="/gfx/screenshots/product_catalog3_thumb.png" />
+    <span> Feature Details </span>
+   </a>
+
+   <a href="/gfx/screenshots/product_catalog4.png" rel="lightbox">
+    <img src="/gfx/screenshots/product_catalog4_thumb.png" />
+    <span> Feature Bundles </span>
+   </a>
+
+   <a href="/gfx/screenshots/product_catalog5.png" rel="lightbox">
+    <img src="/gfx/screenshots/product_catalog5_thumb.png" />
+    <span> Service Pricing </span>
+   </a>
+
+  </div>
+
+ </div>
+
+ <div id="content_left">
+     <!--#include virtual="../products_nav.html" -->
+ </div>
+
+ <div id="content">
+ <div id="content_center">
+  <h1> Deliver service, where and how you want. </h1>
+
+  <p>
+   As the central dashboard for your business, BOSS serves an important role in managing 
+   your services in both implementation and definition. BOSS gives you the flexibility 
+   to define the services and products you sell from tiered service offering to complex 
+   bundles of products and services. With comprehensive billing integration, BOSS can 
+   provide a consistent view across your business to ensure that all of your systems are 
+   in synch and correct.
+  </p>
+
+  <p>
+   BOSS extends its flexibility by allowing the operator to define custom services and pricing down to the user level. With integrated service provisioning operators can provide a hands-off sign-up process for new customers in addition to adding new sources of revenue.
+  </p>
+
+  <p> Key Features </p>
+
+  <ul>
+   <li> Define features for each service and their corresponding value </li>
+   <li> Quickly bundle features together as a service offering or other bundles for multiple services </li>
+   <li> Support multiple service levels for tiered pricing </li>
+   <li> Integration with traffic shaping mechanisms for service quality enforcement </li>
+   <li> Set custom pricing levels for specific service areas or customers </li>
+   <li> Provide different services based on geographic location </li>
+   <li> Integrated provisioning for automated service activation </li>
+   <li> Self-Help and Captive Portal interfaces increase product awareness and cash flow </li>
+   <li> Go to market quicker with new services or trial offerings </li>
+  </ul>
+
+ </div>
+
+</div>
+
+<!--#include virtual="/template/footerrow.html" -->
+
+<!--#include virtual="/template/html_footer.html" -->
+
+

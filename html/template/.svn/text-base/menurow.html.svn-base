@@ -1,0 +1,74 @@
+<div id="menurow">
+
+    <div class="menuImg"><a href="/products/boss/"><img src="/gfx/menu_products.gif" alt="" /></a></div>
+    <div class="menuImg"><a href="/resources/faq/"><img src="/gfx/menu_resources.gif" alt="" /></a></div>
+    <div class="menuImg"><a href="/news/press/"><img src="/gfx/menu_news.gif" alt="" /></a></div>
+    <div class="menuImg"><a href="/support/"><img src="/gfx/menu_support.gif" alt="" /></a></div>
+    <div class="menuImg"><a href="/partners/solution/"><img src="/gfx/menu_partners.gif" alt="" /></a></div>
+    <div class="menuImg"><a href="/company/about/"><img src="/gfx/menu_company.gif" alt="" /></a></div>
+    <div class="menuImg"><a href="/clients/"><img src="/gfx/menu_clients.gif" alt="" /></a></div>
+
+    <div id="menuProducts" class="menu">
+
+	<ul>
+	    <li><a href="/products/boss/">BOSS</a></li>
+	    <li><a href="/products/ip/">IP Services</a></li>
+	    <li><a href="/products/crm/">CRM</a></li>
+	    <li><a href="/products/provisioning/">Provisioning</a></li>
+	    <li class="bottom"><a href="/products/workflow/">Workflow</a></li>
+	</ul>
+
+    </div>
+
+    <div id="menuResources" class="menu">
+
+	  <ul class="list">
+	    <li><a href="/resources/faq/">FAQ</a></li>
+	    <li class="bottom"><a href="/resources/clients/">Downloads</a></li>
+	  </ul>
+
+    </div>
+
+    <div id="menuNews" class="menu">
+
+	  <ul class="list">
+	    <li><a href="/news/press/">Press Releases</a></li>
+	    <li class="bottom"><a href="/news/events/">Events</a></li>
+	  </ul>
+
+    </div>
+
+    <div id="menuSupport" class="menu">
+
+	  <ul class="list">
+	    <li class="top"><a href="/support/">Support Home</a></li>
+	  </ul>
+
+    </div>
+    <div id="menuPartners" class="menu">
+
+	  <ul class="list">
+	    <li><a href="/partners/solution/">Solution</a></li>
+	    <li class="bottom"><a href="/partners/channel/">Channel</a></li>
+	  </ul>
+
+    </div>
+
+    <div id="menuCompany" class="menu">
+
+	  <ul class="list">
+	    <li><a href="/company/about/">About Us</a></li>
+	    <li class="bottom"><a href="/company/contact/">Contact Us</a></li>
+	  </ul>
+
+    </div>
+
+    <div id="menuClients" class="menu">
+
+	  <ul class="list">
+	    <li class="top"><a href="/clients/">Clients Home</a></li>
+	  </ul>
+
+    </div>
+
+</div>

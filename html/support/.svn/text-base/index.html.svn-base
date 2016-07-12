@@ -1,0 +1,60 @@
+<!--#set var="TITLE" value="Support" -->
+<!--#set var="SECTION" value="support" -->
+<!--#set var="L2" value="support"-->
+<!--#set var="L3" value=""-->
+
+<!--#set var="NAV_TITLE" value="Support"-->
+
+<!--#include virtual="/template/html_header.html" -->
+<!--#include virtual="/template/titlerow.html" -->
+<!--#include virtual="/template/menurow.html" -->
+<!--#include virtual="/template/bannerrow.html" -->
+
+
+ <div id="content_right">
+     <!--#include virtual="/template/requestdemo.html" -->
+ </div>
+
+ <div id="content_left">
+     <!--#include virtual="support_nav.html" -->
+ </div>
+
+ <div id="content">
+ <div id="content_center">
+
+  <h1> Customer Support </h1>
+
+  <h2> We’re here when you need us.</h2>
+
+  <p> To ensure your complete satisfaction with the services we provide, we offer: </p>
+
+  <ul>
+   <li> 24-hour support for you and your customers</li>
+   <li> Guaranteed service availability </li>
+  </ul>
+
+  <p> <a href="mailto:support@intrameta.com">Click here to contact us.</a> </p>
+
+  <h1> Training </h1>
+
+  <h2> We make your BOSS transition a smooth one. </h2>
+
+  <p> 
+   All customers receive some level of training for their staff. Based on your needs, we provide:
+  </p>
+
+  <ul>
+   <li> Webcast training, typically at no charge </li>
+   <li> Onsite training (If extensive, fees may apply.) </li>
+   <li> Specialized training with specific staff, such as systems administrators or management </li>
+   <li> Module-specific training </li>
+   <li> Customized curriculum </li>
+  </ul>
+
+ </div>
+ </div>
+
+<!--#include virtual="/template/footerrow.html" -->
+
+<!--#include virtual="/template/html_footer.html" -->
+

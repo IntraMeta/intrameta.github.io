@@ -1,0 +1,70 @@
+<!--#set var="TITLE" value="Event Viewer" -->
+<!--#set var="SECTION" value="products" -->
+<!--#set var="L2" value="products_workflow"-->
+<!--#set var="L3" value="subnav_event_viewer"-->
+
+<!--#set var="NAV_TITLE" value="Products"-->
+
+<!--#include virtual="/template/html_header.html" -->
+<!--#include virtual="/template/titlerow.html" -->
+<!--#include virtual="/template/menurow.html" -->
+<!--#include virtual="/template/bannerrow.html" -->
+
+ <div id="content_right">
+
+  <div id="screenshot_set">
+
+   <a href="/gfx/screenshots/event1.png" rel="lightbox">
+    <img src="/gfx/screenshots/event1_thumb.png" />
+    <span> Workflow Instance Details </span>
+   </a>
+
+   <a href="/gfx/screenshots/event2.png" rel="lightbox">
+    <img src="/gfx/screenshots/event2_thumb.png" />
+    <span> Workflow History </span>
+   </a>
+
+   <a href="/gfx/screenshots/event3.png" rel="lightbox">
+    <img src="/gfx/screenshots/event3_thumb.png" />
+    <span> Waiting for Completion </span>
+   </a>
+
+   <a href="/gfx/screenshots/event4.png" rel="lightbox">
+    <img src="/gfx/screenshots/event4_thumb.png" />
+    <span> Integrated Ticketing </span>
+   </a>
+
+  </div>
+
+ </div>
+
+
+ <div id="content_left">
+     <!--#include virtual="../products_nav.html" -->
+ </div>
+
+ <div id="content">
+ <div id="content_center">
+  <h1> This BOSS is a strategic thinker. </h1>
+
+  <p>
+   Performing its most powerful role, BOSS excels as the command center of your business. BOSS brings all the pieces of your back office puzzle together and streamlines your operational processes to maximize overall efficiency.
+  </p>
+
+  <ul>
+   <li> Easily handling manual and automated tasks </li>
+   <li> Tracking events and corresponding actions </li>
+   <li> Managing internal and customer procedures </li>
+   <li> Uniquely establishing all-encompassing workflows </li>
+  </ul>
+
+  <p> Welcome to the big picture. BOSS will show you the way.  </p>
+
+ </div>
+
+</div>
+
+<!--#include virtual="/template/footerrow.html" -->
+
+<!--#include virtual="/template/html_footer.html" -->
+

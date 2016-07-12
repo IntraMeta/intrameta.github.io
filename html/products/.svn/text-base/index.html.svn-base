@@ -1,0 +1,2 @@
+<!--#set var="redirect" value="/products/boss/"-->
+<!--#include virtual="/template/redirect.html" -->

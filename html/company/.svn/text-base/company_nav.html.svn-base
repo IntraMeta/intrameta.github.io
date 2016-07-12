@@ -1,0 +1,18 @@
+<div id="left_nav">
+
+    <div id="left_nav_title"><!--#echo var="NAV_TITLE" --></div>
+ 
+    <ul class="l1">
+      
+	<li  id="company_about"><a href="/company/about/">About Us</a>
+	    <!--#if expr="$L2= company_about" -->
+	    <!--#endif -->
+	</li>
+
+	<li  id="company_contact"><a href="/company/contact/">Contact Us</a>
+	    <!--#if expr="$L2= company_contact" -->
+	    <!--#endif -->
+	</li>
+
+    </ul>
+</div>

@@ -1,0 +1,129 @@
+<!--#set var="TITLE" value="Press Releases" -->
+<!--#set var="SECTION" value="news" -->
+<!--#set var="L2" value="news_press"-->
+<!--#set var="L3" value=""-->
+
+<!--#set var="NAV_TITLE" value="News"-->
+
+<!--#include virtual="/template/html_header.html" -->
+<!--#include virtual="/template/titlerow.html" -->
+<!--#include virtual="/template/menurow.html" -->
+<!--#include virtual="/template/bannerrow.html" -->
+
+
+ <div id="content_right">
+     <!--#include virtual="/template/requestdemo.html" -->
+ </div>
+
+ <div id="content_left">
+     <!--#include virtual="../news_nav.html" -->
+ </div>
+
+ <div id="content">
+ <div id="content_center">
+
+     <h1> What's New </h1>
+    
+     <div class="hr"></div>
+
+     <!-- ---- -->
+
+     <div class="newsitem">
+         <div class="header"><h2>IntraMeta Software Featured by Broadband Properties Magazine</h2></div>
+	 <div class="corpus">
+	     <p>
+             Broadband Properties Magazine featured us in a recent issue, and the article is available on-line. From the website: 
+	         <br /><em>Here’s what a good operations support system should have in
+		 order to wow customers and make providers’ lives easier.</em>
+		 <br />-- You can read the article <a
+		 href="/resources/clients/im--Winning Strategies for Back Office
+		 Integration--Sept07.pdf">here</a>.
+	     </p>
+	 </div>
+	 <div class="hr"></div>
+     </div>
+
+     <!-- ---- -->
+
+     <div class="newsitem">
+         <div class="header"><h2>New Website Launched</h2></div>
+	 <div class="corpus">
+	     <p>Our website finally got a much needed facelift. We've included a
+	     ton of screen shots of our ever-evolving product, BOSS. Take a look
+	     around, and let us know what you think!</p>
+	 </div>
+	 <div class="hr"></div>
+     </div>
+
+     <!-- ---- -->
+
+     <div class="newsitem">
+         <div class="header"><h2>Study finds OSS/BSS Integration is a Top Concern for Service Providers</h2></div>
+	 <div class="corpus">
+	     <p>A recent survey revealed that an integrated OSS/BSS is currently
+	     the top priority for service providers."The best way carriers see
+	     to solve all of these problems is with better OSS and BSS
+	     integration. Sixty-six percent of respondents said that was their
+	     primary OSS requirement over the next two years. They ranked it
+	     higher than the rapid introduction of new services (even though 66%
+	     of providers said it takes more than six monthos to introduce a
+	     single new service), the integration of fulfillment and assurance
+	     (both OSS) and legacy system integration.</p>
+	 </div>
+	 <div class="hr"></div>
+     </div>
+
+     <!-- ---- -->
+
+     <div class="newsitem">
+         <div class="header"><h2>IntraMeta Introduces BOSS, the New Back Office Platform for Service Providers</h2></div>
+	 <div class="corpus">
+             <p>IntraMeta Corporation, the Utility Computing Company, announced
+	     today the release of BOSS, IntraMeta’s Broadband Operations Support
+	     System. BOSS is an industry first on-demand operations platform for
+	     Internet and communications service providers. It offers a simple,
+	     unified and cost effective means of managing service provider
+	     operations.</p>
+	     <p>As a software service, BOSS eliminates up-front
+	     investments in traditional IT infrastructure and reduces time to
+	     market because IntraMeta’s customers to pay for only the services
+	     consumed. BOSS is an integrated IT platform delivered by
+	     fault-tolerant, geographically diverse data centers through a
+	     secure web interface. Extensive customization and integration
+	     capabilities make BOSS the ideal back office platform for service
+	     provider operations.</p>
+	     <p>BOSS addresses the challenges faced by small and medium sized
+	     providers, providing them with an enterprise quality back office
+	     which scales with them as they grow. BOSS features a host of
+	     required functions for service providers:</p>
+	     <ul>
+	         <li> Subscriber Management </li>
+	         <li> Enterprise class e-mail </li>
+	         <li> Ticketing </li>
+	         <li> Domain Name Services </li>
+	         <li> Network Element Management </li>
+	         <li> Service Provisioning </li>
+	         <li> Captive Portal </li>
+	         <li> Self Help </li>
+	     </ul>
+	     <p>To date, BOSS has only been available on a limited basis to a
+	     handful of service providers and corporate customers. IntraMeta
+	     will have BOSS on display at the Spring VON show in San Jose
+	     California which runs from March 20th to March 22nd 2007. To read
+	     more about BOSS, its extensive functionality and illustrative case
+	     studies please visit: intrameta.com/boss</p>
+	 </div>
+	 <div class="hr"></div>
+     </div>
+
+
+
+ </div>
+
+</div>
+
+<!--#include virtual="/template/footerrow.html" -->
+
+<!--#include virtual="/template/html_footer.html" -->
+
+

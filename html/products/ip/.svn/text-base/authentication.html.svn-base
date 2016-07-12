@@ -1,0 +1,92 @@
+<!--#set var="TITLE" value="Authentication" -->
+<!--#set var="SECTION" value="products" -->
+<!--#set var="L2" value="products_ip"-->
+<!--#set var="L3" value="subnav_auth"-->
+
+<!--#set var="NAV_TITLE" value="Products"-->
+
+<!--#include virtual="/template/html_header.html" -->
+<!--#include virtual="/template/titlerow.html" -->
+<!--#include virtual="/template/menurow.html" -->
+<!--#include virtual="/template/bannerrow.html" -->
+
+
+ <div id="content_right">
+
+  <div id="screenshot_set">
+
+   <a href="/gfx/screenshots/auth1.png" rel="lightbox">
+    <img src="/gfx/screenshots/auth1_thumb.png" />
+    <span> Simple Service Activation </span>
+   </a>
+
+   <a href="/gfx/screenshots/auth2.png" rel="lightbox">
+    <img src="/gfx/screenshots/auth2_thumb.png" />
+    <span> RADIUS Dictionary Support </span>
+   </a>
+
+   <a href="/gfx/screenshots/auth3.png" rel="lightbox">
+    <img src="/gfx/screenshots/auth3_thumb.png" />
+    <span> RADIUS Service Detail </span>
+   </a>
+
+   <a href="/gfx/screenshots/auth4.png" rel="lightbox">
+    <img src="/gfx/screenshots/auth4_thumb.png" />
+    <span> Simple Client Configuration </span>
+   </a>
+
+   <a href="/gfx/screenshots/auth5.png" rel="lightbox">
+    <img src="/gfx/screenshots/auth5_thumb.png" />
+    <span> View/Sort Connections </span>
+   </a>
+
+   <a href="/gfx/screenshots/auth6.png" rel="lightbox">
+    <img src="/gfx/screenshots/auth6_thumb.png" />
+    <span> Packet Level Detail </span>
+   </a>
+
+  </div>
+
+ </div>
+
+ <div id="content_left">
+     <!--#include virtual="/products/products_nav.html" -->
+ </div>
+
+ <div id="content">
+ <div id="content_center">
+  <h1> User Authentication </h1>
+  <p> 
+   IntraMeta provides a comprehensive set of methods to ensure that the people on your network are supposed to be there while offering them the convenience of a single username and password for all their services.
+  </p> 
+
+  <p> 
+   As a fully integrated platform BOSS, is able to integrate and act as an overlay on top of any of our clients existing services or any of the native BOSS services that our clients may choose to use.
+  </p> 
+
+  <p> 
+   The BOSS RADIUS service means third party services or applications work natively 
+   with BOSS and therefore, require zero integration.
+  </p> 
+
+  <p> 
+   BOSS Captive Portal is a powerful, script-driven tool that gives the operator 
+   the option of offering additional services, such as wireless access, to their 
+   existing wire based subscribers using their current login and password.
+  </p> 
+
+  <p> Key Features: </p> 
+  <ul>
+   <li> Single sign-on for all BOSS managed services </li>
+   <li> RADIUS authentication support for third party serivces and hardware </li>
+   <li> Existing customers are able to signup for new services or use services in other areas with their same login information </li>
+  </ul>
+ </div>
+
+</div>
+
+<!--#include virtual="/template/footerrow.html" -->
+
+<!--#include virtual="/template/html_footer.html" -->
+
+

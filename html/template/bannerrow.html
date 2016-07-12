@@ -1,0 +1,31 @@
+<div id="bannerrow">
+
+<!-- The Primary Banner -->
+<!--#if expr="$SECTION = home" -->
+    <a href="/products/boss/" title="What is BOSS?  learn More."><img src="/gfx/home_banner.jpg" alt="What is BOSS?  learn More."/></a>
+<!--#elif expr="$SECTION = products" -->
+    <img src="/gfx/products_banner.jpg" alt="Products"/>
+<!--#elif expr="$SECTION = resources" -->
+    <img src="/gfx/resources_banner.jpg" alt="Resources"/>
+<!--#elif expr="$SECTION = news" -->
+    <img src="/gfx/news_banner.jpg" alt="News"/>
+<!--#elif expr="$SECTION = support" -->
+    <img src="/gfx/support_banner.jpg" alt="Support"/>
+<!--#elif expr="$SECTION = partners" -->
+    <img src="/gfx/partners_banner.jpg" alt="Partners"/>
+<!--#elif expr="$SECTION = company" -->
+    <img src="/gfx/company_banner.jpg" alt="Company"/>
+<!--#elif expr="$SECTION = clients" -->
+    <img src="/gfx/clients_banner.jpg" alt="Clients"/>
+<!--#else -->
+    UNKNOWN SECTION: <!--#echo var="SECTION" -->
+<!--#endif -->
+
+<!-- The Secondary Banner -->
+<!--#set var="BANNERTITLE" value="${L2}"-->
+<div id="bannertitle">
+    <img src="/gfx/banner_<!--#echo var="BANNERTITLE"-->.gif" alt=""/>
+</div>
+
+</div>
+<div id="bannerspacer">&nbsp;</div>

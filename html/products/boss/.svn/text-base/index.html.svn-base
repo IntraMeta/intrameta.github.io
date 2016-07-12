@@ -1,0 +1,57 @@
+<!--#set var="TITLE" value="Products" -->
+<!--#set var="SECTION" value="products" -->
+<!--#set var="L2" value="products_boss"-->
+<!--#set var="L3" value=""-->
+
+<!--#set var="NAV_TITLE" value="Products"-->
+
+<!--#include virtual="/template/html_header.html" -->
+<!--#include virtual="/template/titlerow.html" -->
+<!--#include virtual="/template/menurow.html" -->
+<!--#include virtual="/template/bannerrow.html" -->
+
+
+    <div id="content_right">
+        <!--#include virtual="/template/requestdemo.html" -->
+    </div>
+
+    <div id="content_left">
+        <!--#include virtual="../products_nav.html" -->
+    </div>
+
+    <div id="content">
+    <div id="content_center">
+        <h1> Ready for a Better BOSS? </h1>
+
+	<p><img class="dropimage" src="/gfx/logo_bossfull.gif" alt="BOSS" />
+	Introducing BOSS - The revolutionary pay-per-use back office platform. 
+	IntraMeta's Broadband Operations Support System (BOSS) has been designed from the
+	ground up as the platform to unify all the pieces of your operations into a
+	single utility that can manage it all, no matter what your size.</p>  
+
+	<p>The BOSS Platform allows for our clients to mix-and-match the services
+	that best fit the needs of their organizations.  Customer Management, Provisioning, IP
+	Services are all tied together with a Workflow Management module.</p>
+	
+
+        <p>If you’re looking for a back office solution that’s flexible, easily affordable
+        and quickly enables you to better serve your customers, bring this BOSS on board.
+        You’ll only pay for services you use, allowing you to manage your overall
+        business more effectively. Say “hello” to BOSS and “goodbye” to swivel chair
+        operations.</p>
+
+	<p>All IntraMeta products are delivered through the BOSS platform for
+	complete system cohesiveness.  Read more about the products available
+	in the subsequent product pages, and <a
+	href="mailto:sales@intrameta.com">contact us</a> with any questions about
+	our offerings.</p>
+
+
+    </div>
+    </div>
+
+<!--#include virtual="/template/footerrow.html" -->
+
+<!--#include virtual="/template/html_footer.html" -->
+
+
